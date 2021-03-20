@@ -1,4 +1,4 @@
-title:Welcome to Octocat主页！
+title : Welcome to Jaden主页！
 
 You can use the [editor on GitHub](https://github.com/Dtyanxishe/Jaden/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
